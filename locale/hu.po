@@ -144,6 +144,18 @@ msgstr ""
 "A legjobb megoldás, ha nem használ vezeték nélküli hálózatot alacsony késleltetésű valós idejű "
 "audio környezetben."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Bluetooth kikapcsolása"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"A Bluetooth folyamatosan keres új eszközöket a háttérben, és ez xrunt okozhat. A legjobb megoldás, "
+"ha nem használ Bluetooth-t alacsony késleltetésű, valós idejű audio környezetben."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "Nem elérhető: a szkript nem található."

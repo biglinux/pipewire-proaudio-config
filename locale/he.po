@@ -144,6 +144,18 @@ msgstr ""
 "NetworkManager ממשיך לסרוק עבור רשתות אלחוטיות חדשות ברקע וזה עלול לגרום ל-xruns. האפשרות הטובה "
 "ביותר היא לא להשתמש ברשת אלחוטית בסביבת אודיו בזמן אמת עם השהיה נמוכה."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "כבה בלוטות'"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"בלוטות' ממשיך לסרוק מכשירים חדשים ברקע וזה עלול לגרום ל-xruns. האפשרות הטובה ביותר היא לא להשתמש "
+"בבלוטות' בסביבת אודיו בזמן אמת עם השהיה נמוכה."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "לא זמין: הסקריפט לא נמצא."

@@ -144,6 +144,18 @@ msgstr ""
 "xruns. La mejor opción es no usar una red inalámbrica en un entorno de audio en tiempo real de baja "
 "latencia."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Desactivar Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth sigue escaneando en busca de nuevos dispositivos en segundo plano y esto podría causar "
+"xruns. La mejor opción es no usar Bluetooth en un entorno de audio en tiempo real de baja latencia."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "No disponible: script no encontrado."

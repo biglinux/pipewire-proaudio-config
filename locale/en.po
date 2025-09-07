@@ -178,98 +178,114 @@ msgstr ""
 "in a low-latency real-time audio environment."
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Disable Bluetooth"
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might "
+"cause xruns. The best option is to not use a bluetooth in a low-latency real-"
+"time audio environment."
+msgstr ""
+"Bluetooth keeps scanning for new devices in the background and this might "
+"cause xruns. The best option is to not use a bluetooth in a low-latency real-"
+"time audio environment."
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 296
 msgid "Unavailable: script not found."
 msgstr "Unavailable: script not found."
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 290
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 321
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 297
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 328
 msgid "Script not found: {}"
 msgstr "Script not found: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 301
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 308
 msgid "Enabled"
 msgstr "Enabled"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 303
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 310
 msgid "Disabled"
 msgstr "Disabled"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 305
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 312
 msgid "Unavailable: script returned invalid output."
 msgstr "Unavailable: script returned invalid output."
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 306
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 313
 msgid "Invalid output from script {}: {}"
 msgstr "Invalid output from script {}: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 309
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 316
 msgid "Unavailable: script returned an error."
 msgstr "Unavailable: script returned an error."
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 310
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 317
 msgid "Error checking state: {}"
 msgstr "Error checking state: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 313
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 320
 msgid "Unavailable: failed to run script."
 msgstr "Unavailable: failed to run script."
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 314
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 355
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 321
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 362
 msgid "Error running script {}: {}"
 msgstr "Error running script {}: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 333
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 340
 msgid "State changed successfully"
 msgstr "State changed successfully"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 335
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 342
 msgid "Script output: {}"
 msgstr "Script output: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 339
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 346
 msgid "Script failed with exit code: {}"
 msgstr "Script failed with exit code: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 351
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 358
 msgid "Script timeout: {}"
 msgstr "Script timeout: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 375
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 382
 msgid "Switch {} synchronized: {}"
 msgstr "Switch {} synchronized: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 398
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 405
 msgid "Indicator {} synchronized: {}"
 msgstr "Indicator {} synchronized: {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 406
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 413
 msgid "Changing {} to {}"
 msgstr "Changing {} to {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 419
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 426
 msgid "ERROR: Failed to change {} to {}"
 msgstr "ERROR: Failed to change {} to {}"
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 420
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 427
 msgid "Failed to change setting: {}"
 msgstr "Failed to change setting: {}"

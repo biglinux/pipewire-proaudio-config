@@ -135,6 +135,16 @@ msgid ""
 "environment."
 msgstr "NetworkManager在后台不断扫描新的无线网络，这可能会导致xruns。最佳选择是在低延迟实时音频环境中不使用无线网络。"
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "禁用蓝牙"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr "蓝牙在后台持续扫描新设备，这可能导致 xruns。最佳选择是在低延迟实时音频环境中不使用蓝牙。"
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "不可用：未找到脚本。"
