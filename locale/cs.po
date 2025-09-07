@@ -143,6 +143,18 @@ msgstr ""
 "NetworkManager neustále prohledává nové bezdrátové sítě na pozadí, což může způsobit xruns. "
 "Nejlepší možností je nepoužívat bezdrátovou síť v prostředí s nízkou latencí pro reálný čas zvuku."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Zakázat Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth neustále skenuje nové zařízení na pozadí a to může způsobit xruns. Nejlepší možností je "
+"nepoužívat Bluetooth v prostředí s nízkou latencí pro reálný čas zvuku."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "Nedostupné: skript nebyl nalezen."

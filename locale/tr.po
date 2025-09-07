@@ -144,6 +144,18 @@ msgstr ""
 "neden olabilir. En iyi seçenek, düşük gecikmeli gerçek zamanlı ses ortamında kablosuz ağ "
 "kullanmamaktır."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Bluetooth'u devre dışı bırak."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth, arka planda yeni cihazlar için tarama yapmaya devam ediyor ve bu, xrun'lara neden "
+"olabilir. En iyi seçenek, düşük gecikmeli gerçek zamanlı ses ortamında Bluetooth kullanmamaktır."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "Kullanılamıyor: betik bulunamadı."

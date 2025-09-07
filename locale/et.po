@@ -143,6 +143,18 @@ msgstr ""
 "NetworkManager skannib pide uusi traadita võrke taustal ja see võib põhjustada xrune. Parim valik "
 "on mitte kasutada traadita võrku madala latentsusega reaalajas helikeskkonnas."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Keela Bluetooth."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth skannib pidevaid seadmeid taustal ja see võib põhjustada xrune. Parim valik on mitte "
+"kasutada Bluetoothi madala latentsusega reaalajas helikeskkonnas."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "Kättesaamatud: skripti ei leitud."

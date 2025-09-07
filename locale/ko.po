@@ -136,6 +136,16 @@ msgstr ""
 "NetworkManager는 백그라운드에서 새로운 무선 네트워크를 계속 스캔하며, 이로 인해 xruns가 발생할 수 있습니다. 최선의 선택은 저지연 실시간 오디오 환경에서 무선 "
 "네트워크를 사용하지 않는 것입니다."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "블루투스 비활성화"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr "블루투스는 백그라운드에서 새로운 장치를 계속 검색하며, 이로 인해 xruns가 발생할 수 있습니다. 최선의 선택은 저지연 실시간 오디오 환경에서 블루투스를 사용하지 않는 것입니다."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "사용할 수 없음: 스크립트를 찾을 수 없습니다."

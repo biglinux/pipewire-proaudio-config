@@ -143,6 +143,18 @@ msgstr ""
 "NetworkManager fortsetter å skanne etter nye trådløse nettverk i bakgrunnen, og dette kan forårsake "
 "xruns. Det beste alternativet er å ikke bruke et trådløst nettverk i et lav-latens sanntidslydmiljø."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 287
+msgid "Disable Bluetooth"
+msgstr "Deaktiver Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth fortsetter å skanne etter nye enheter i bakgrunnen, og dette kan forårsake xruns. Det "
+"beste alternativet er å ikke bruke Bluetooth i et lav-latens sanntidslydmiljø."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
 msgstr "Utilgjengelig: skript ikke funnet."
