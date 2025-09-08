@@ -27,10 +27,88 @@ msgstr "Det oppstod en feil under oppdatering av GRUB."
 msgid "Already disabled. No changes made."
 msgstr "Allerede deaktivert. Ingen endringer gjort."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 44
+msgid ""
+"`pw-metadata` command not found.\n"
+"Please install pipewire-utils or a similar package."
+msgstr "`pw-metadata`-kommando ikke funnet. Vennligst installer pipewire-utils eller en lignende pakke."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 59
+msgid "Audio Interface"
+msgstr "Lydgrensesnitt"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 65
+msgid "Reload live settings from PipeWire"
+msgstr "Last inn live-innstillinger fra PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 71
+msgid "Sample Rate"
+msgstr "Prøvetakingsfrekvens"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 79
+msgid "Buffer Size (Quantum)"
+msgstr "Bufferstørrelse (Quantum)"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 90
+msgid "Apply Session"
+msgstr "Bruk økt"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 91
+msgid "Apply settings for the current session only. Lost on restart."
+msgstr "Bruk innstillinger for den nåværende økten bare. Tapt ved omstart."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 96
+msgid "Make Permanent & Apply"
+msgstr "Gjør permanent og bruk"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 97
+msgid "Apply settings now and save them for future sessions."
+msgstr "Bruk innstillinger nå og lagre dem for fremtidige økter."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid "Apply changes temporarily or make them permanent for future sessions."
+msgstr "Bruk endringer midlertidig eller gjør dem permanente for fremtidige økter."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 110
+msgid "Settings are being controlled by an external application. Applying new values will override this."
+msgstr "Innstillinger blir kontrollert av en ekstern applikasjon. Å bruke nye verdier vil overstyre dette."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid "Settings applied for the current session."
+msgstr "Innstillinger brukt for den nåværende økten."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 212
+msgid "Failed to apply live settings."
+msgstr "Kunne ikke bruke live-innstillinger."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 230
+msgid "Error: Failed to save configuration file."
+msgstr "Feil: Kunne ikke lagre konfigurasjonsfil."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 237
+msgid "Settings saved and applied permanently."
+msgstr "Innstillinger lagret og brukt permanent."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 240
+msgid "Settings saved, but failed to apply live."
+msgstr "Innstillinger lagret, men klarte ikke å bruke live."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 246
+msgid "PipeWire settings reloaded."
+msgstr "PipeWire-innstillinger lastet på nytt."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
 msgid "PipeWire ProAudio Config"
 msgstr "PipeWire ProAudio Konfigurasjon"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 145
+msgid "System Tweaks"
+msgstr "Systemjusteringer"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 148
+msgid "PipeWire Settings"
+msgstr "PipeWire-innstillinger"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
 msgid "Checks"
@@ -142,6 +220,18 @@ msgid ""
 msgstr ""
 "NetworkManager fortsetter å skanne etter nye trådløse nettverk i bakgrunnen, og dette kan forårsake "
 "xruns. Det beste alternativet er å ikke bruke et trådløst nettverk i et lav-latens sanntidslydmiljø."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 347
+msgid "Disable Bluetooth"
+msgstr "Deaktiver Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 348
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth fortsetter å skanne etter nye enheter i bakgrunnen, og dette kan forårsake xruns. Det "
+"beste alternativet er å ikke bruke Bluetooth i et lav-latens sanntidslydmiljø."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."

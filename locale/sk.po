@@ -27,10 +27,88 @@ msgstr "Pri aktualizácii GRUB došlo k chybe."
 msgid "Already disabled. No changes made."
 msgstr "Už je zakázané. Žiadne zmeny neboli vykonané."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 44
+msgid ""
+"`pw-metadata` command not found.\n"
+"Please install pipewire-utils or a similar package."
+msgstr "Príkaz `pw-metadata` nebol nájdený. Prosím, nainštalujte pipewire-utils alebo podobný balík."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 59
+msgid "Audio Interface"
+msgstr "Zvukové rozhranie"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 65
+msgid "Reload live settings from PipeWire"
+msgstr "Načítanie živých nastavení z PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 71
+msgid "Sample Rate"
+msgstr "Vzorkovacia frekvencia"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 79
+msgid "Buffer Size (Quantum)"
+msgstr "Veľkosť vyrovnávacej pamäte (kvantum)"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 90
+msgid "Apply Session"
+msgstr "Použiť reláciu"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 91
+msgid "Apply settings for the current session only. Lost on restart."
+msgstr "Použiť nastavenia iba pre aktuálnu reláciu. Stratené po reštarte."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 96
+msgid "Make Permanent & Apply"
+msgstr "Urobiť trvalé a použiť"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 97
+msgid "Apply settings now and save them for future sessions."
+msgstr "Použite nastavenia teraz a uložte ich pre budúce relácie."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid "Apply changes temporarily or make them permanent for future sessions."
+msgstr "Aplikujte zmeny dočasne alebo ich urobte trvalými pre budúce relácie."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 110
+msgid "Settings are being controlled by an external application. Applying new values will override this."
+msgstr "Nastavenia sú ovládané externou aplikáciou. Aplikovanie nových hodnôt toto prepíše."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid "Settings applied for the current session."
+msgstr "Nastavenia aplikované pre aktuálnu reláciu."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 212
+msgid "Failed to apply live settings."
+msgstr "Nepodarilo sa aplikovať živé nastavenia."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 230
+msgid "Error: Failed to save configuration file."
+msgstr "Chyba: Uloženie konfiguračného súboru zlyhalo."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 237
+msgid "Settings saved and applied permanently."
+msgstr "Nastavenia boli uložené a trvalo aplikované."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 240
+msgid "Settings saved, but failed to apply live."
+msgstr "Nastavenia boli uložené, ale nepodarilo sa ich aplikovať naživo."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 246
+msgid "PipeWire settings reloaded."
+msgstr "Nastavenia PipeWire boli znovu načítané."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
 msgid "PipeWire ProAudio Config"
 msgstr "Konfigurácia PipeWire ProAudio"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 145
+msgid "System Tweaks"
+msgstr "Systémové úpravy"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 148
+msgid "PipeWire Settings"
+msgstr "Nastavenia PipeWire"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
 msgid "Checks"
@@ -142,6 +220,18 @@ msgid ""
 msgstr ""
 "NetworkManager neustále skenuje nové bezdrôtové siete na pozadí, čo môže spôsobiť xruns. Najlepšou "
 "voľbou je nepoužívať bezdrôtovú sieť v prostredí s nízkou latenciou a reálnym časom zvuku."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 347
+msgid "Disable Bluetooth"
+msgstr "Zakázať Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 348
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth neustále skenuje nové zariadenia na pozadí a to môže spôsobiť xruns. Najlepšou voľbou je "
+"nepoužívať Bluetooth v prostredí s nízkou latenciou v reálnom čase."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."

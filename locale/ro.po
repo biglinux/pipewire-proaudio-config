@@ -27,10 +27,88 @@ msgstr "A apărut o eroare în timpul actualizării GRUB."
 msgid "Already disabled. No changes made."
 msgstr "Deja dezactivat. Nicio modificare efectuată."
 # 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 44
+msgid ""
+"`pw-metadata` command not found.\n"
+"Please install pipewire-utils or a similar package."
+msgstr "Comanda `pw-metadata` nu a fost găsită. Vă rugăm să instalați pipewire-utils sau un pachet similar."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 59
+msgid "Audio Interface"
+msgstr "Interfață audio"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 65
+msgid "Reload live settings from PipeWire"
+msgstr "Reîncarcă setările live din PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 71
+msgid "Sample Rate"
+msgstr "Rată de eșantionare"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 79
+msgid "Buffer Size (Quantum)"
+msgstr "Dimensiune buffer (Quantum)"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 90
+msgid "Apply Session"
+msgstr "Aplică sesiunea"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 91
+msgid "Apply settings for the current session only. Lost on restart."
+msgstr "Aplică setările doar pentru sesiunea curentă. Pierdute la repornire."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 96
+msgid "Make Permanent & Apply"
+msgstr "Fă permanent și aplică"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 97
+msgid "Apply settings now and save them for future sessions."
+msgstr "Aplică setările acum și salvează-le pentru sesiuni viitoare."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid "Apply changes temporarily or make them permanent for future sessions."
+msgstr "Aplică modificările temporar sau fă-le permanente pentru sesiuni viitoare."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 110
+msgid "Settings are being controlled by an external application. Applying new values will override this."
+msgstr "Setările sunt controlate de o aplicație externă. Aplicarea de noi valori va suprascrie aceasta."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid "Settings applied for the current session."
+msgstr "Setările aplicate pentru sesiunea curentă."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 212
+msgid "Failed to apply live settings."
+msgstr "Aplicarea setărilor live a eșuat."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 230
+msgid "Error: Failed to save configuration file."
+msgstr "Eroare: Salvarea fișierului de configurare a eșuat."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 237
+msgid "Settings saved and applied permanently."
+msgstr "Setările salvate și aplicate permanent."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 240
+msgid "Settings saved, but failed to apply live."
+msgstr "Setările au fost salvate, dar nu s-au aplicat în timp real."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 246
+msgid "PipeWire settings reloaded."
+msgstr "Setările PipeWire au fost reîncărcate."
+# 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
 msgid "PipeWire ProAudio Config"
 msgstr "Configurație ProAudio PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 145
+msgid "System Tweaks"
+msgstr "Ajustări de sistem"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 148
+msgid "PipeWire Settings"
+msgstr "Setări PipeWire"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
 msgid "Checks"
@@ -143,6 +221,19 @@ msgstr ""
 "NetworkManager continuă să scaneze pentru noi rețele wireless în fundal și acest lucru ar putea "
 "cauza xruns. Cea mai bună opțiune este să nu folosești o rețea wireless într-un mediu audio în timp "
 "real cu latență scăzută."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 347
+msgid "Disable Bluetooth"
+msgstr "Dezactivează Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 348
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth continuă să scaneze pentru dispozitive noi în fundal și acest lucru ar putea cauza xruns. "
+"Cea mai bună opțiune este să nu folosești Bluetooth într-un mediu audio în timp real cu latență "
+"scăzută."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."

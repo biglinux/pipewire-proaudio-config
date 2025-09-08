@@ -32,98 +32,194 @@ msgid   "Already disabled. No changes made."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 44
+msgid   "`pw-metadata` command not found.\n"
+        "Please install pipewire-utils or a similar package."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 59
+msgid   "Audio Interface"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 65
+msgid   "Reload live settings from PipeWire"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 71
+msgid   "Sample Rate"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 79
+msgid   "Buffer Size (Quantum)"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 90
+msgid   "Apply Session"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 91
+msgid   "Apply settings for the current session only. Lost on restart."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 96
+msgid   "Make Permanent & Apply"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 97
+msgid   "Apply settings now and save them for future sessions."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid   "Apply changes temporarily or make them permanent for future sessions."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 110
+msgid   "Settings are being controlled by an external application. Applying "
+        "new values will override this."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid   "Settings applied for the current session."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 212
+msgid   "Failed to apply live settings."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 230
+msgid   "Error: Failed to save configuration file."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 237
+msgid   "Settings saved and applied permanently."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 240
+msgid   "Settings saved, but failed to apply live."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 246
+msgid   "PipeWire settings reloaded."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 50
 msgid   "PipeWire ProAudio Config"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 145
+msgid   "System Tweaks"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 148
+msgid   "PipeWire Settings"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 263
 msgid   "Checks"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 205
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 265
 msgid   "ProAudio Checks"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 212
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 272
 msgid   "Reload all statuses"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 220
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 280
 msgid   "Kernel Low Latency"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 221
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 281
 msgid   "Check if the kernel configuration has lowlatency enabled"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 228
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 288
 msgid   "System"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 230
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 290
 msgid   "ProAudio System Settings"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 236
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 296
 msgid   "CPU Performance Power Profile"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 237
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 297
 msgid   "Turn on CPU performance power profile."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 244
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 304
 msgid   "Meltdown Mitigations off"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 245
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 305
 #, python-brace-format
 msgid   "Warning: Using mitigations=off will make your machine less secure! "
         "For more information see: <a href='{link}'>{link}</a>"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 251
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 311
 msgid   "noWatchdog"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 252
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 312
 msgid   "Disables the hardware watchdog and TSC clocksource systems, "
         "maintaining high performance but removing automatic protections "
         "against system crashes."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 258
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 318
 msgid   "IRQ Forced Threading"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 259
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 319
 msgid   "Warning: If you do not know what this is and/or are not sure, DO NOT "
         "enable this feature."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 266
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 326
 msgid   "Multi/Hyper Threading OFF"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 267
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 327
 #, python-brace-format
 msgid   "Simultaneous Multithreading (SMT) or hyperthreading can cause spikes "
         "in DSP load at higher DSP loads.\n"
@@ -133,121 +229,133 @@ msgid   "Simultaneous Multithreading (SMT) or hyperthreading can cause spikes "
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 273
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 333
 msgid   "User in Audio Group"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 274
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 334
 msgid   "It is generally good practice to have an audio group, and add any "
         "users that should be allowed to perform audio tasks to this group."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 280
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 340
 msgid   "Disable Wifi"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 281
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 341
 msgid   "NetworkManager keeps scanning for new wireless networks in the "
         "background and this might cause xruns. The best option is to not use "
         "a wireless network in a low-latency real-time audio environment."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 347
+msgid   "Disable Bluetooth"
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 348
+msgid   "Bluetooth keeps scanning for new devices in the background and this "
+        "might cause xruns. The best option is to not use a bluetooth in a "
+        "low-latency real-time audio environment."
+msgstr  ""
+
+#
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 356
 msgid   "Unavailable: script not found."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 290
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 321
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 357
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 388
 msgid   "Script not found: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 301
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 368
 msgid   "Enabled"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 303
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 370
 msgid   "Disabled"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 305
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 372
 msgid   "Unavailable: script returned invalid output."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 306
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 373
 msgid   "Invalid output from script {}: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 309
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 376
 msgid   "Unavailable: script returned an error."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 310
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 377
 msgid   "Error checking state: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 313
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 380
 msgid   "Unavailable: failed to run script."
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 314
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 355
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 381
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 422
 msgid   "Error running script {}: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 333
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 400
 msgid   "State changed successfully"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 335
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 402
 msgid   "Script output: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 339
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 406
 msgid   "Script failed with exit code: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 351
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 418
 msgid   "Script timeout: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 375
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 442
 msgid   "Switch {} synchronized: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 398
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 465
 msgid   "Indicator {} synchronized: {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 406
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 473
 msgid   "Changing {} to {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 419
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 486
 msgid   "ERROR: Failed to change {} to {}"
 msgstr  ""
 
 #
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 420
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 487
 msgid   "Failed to change setting: {}"
 msgstr  ""
