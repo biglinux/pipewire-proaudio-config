@@ -26,11 +26,93 @@ msgid "An error occurred while updating GRUB."
 msgstr "Възникна грешка при актуализиране на GRUB."
 msgid "Already disabled. No changes made."
 msgstr "Вече е деактивирано. Няма направени промени."
+msgid "Limits updated successfully!"
+msgstr "Ограниченията бяха актуализирани успешно!"
+msgid "An error occurred while updating Limits."
+msgstr "Възникна грешка при актуализиране на лимитите."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 42
+msgid ""
+"`pw-metadata` command not found.\n"
+"Please install pipewire-utils or a similar package."
+msgstr "Командата `pw-metadata` не е намерена. Моля, инсталирайте pipewire-utils или подобен пакет."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 57
+msgid "Audio Interface"
+msgstr "Аудио интерфейс"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 63
+msgid "Reload live settings from PipeWire"
+msgstr "Презаредете живите настройки от PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 69
+msgid "Sample Rate"
+msgstr "Честота на пробите"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 77
+msgid "Buffer Size (Quantum)"
+msgstr "Размер на буфера (Квант)"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 88
+msgid "Apply Session"
+msgstr "Приложи сесия"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 89
+msgid "Apply settings for the current session only. Lost on restart."
+msgstr "Приложете настройки само за текущата сесия. Загубени при рестартиране."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 94
+msgid "Make Permanent & Apply"
+msgstr "Направи постоянно и приложи"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 95
+msgid "Apply settings now and save them for future sessions."
+msgstr "Приложете настройките сега и ги запазете за бъдещи сесии."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 106
+msgid "Apply changes temporarily or make them permanent for future sessions."
+msgstr "Прилагане на промените временно или правене на постоянни за бъдещи сесии."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid "Settings are being controlled by an external application. Applying new values will override this."
+msgstr "Настройките се контролират от външно приложение. Прилагането на нови стойности ще замени това."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 208
+msgid "Settings applied for the current session."
+msgstr "Настройки, приложени за текущата сесия."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid "Failed to apply live settings."
+msgstr "Неуспешно прилагане на настройки в реално време."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 228
+msgid "Error: Failed to save configuration file."
+msgstr "Грешка: Неуспешно запазване на конфигурационния файл."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 235
+msgid "Settings saved and applied permanently."
+msgstr "Настройките са запазени и приложени постоянно."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 238
+msgid "Settings saved, but failed to apply live."
+msgstr "Настройките са запазени, но не успяха да се приложат в реално време."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 244
+msgid "PipeWire settings reloaded."
+msgstr "Настройките на PipeWire са презаредени."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
 msgid "PipeWire ProAudio Config"
 msgstr "Конфигурация на PipeWire ProAudio"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 110
+msgid "System Tweaks"
+msgstr "Системни настройки"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 113
+msgid "PipeWire Settings"
+msgstr "Настройки на PipeWire"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
 msgid "Checks"
@@ -51,6 +133,14 @@ msgstr "Ядро с ниска латентност"
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 221
 msgid "Check if the kernel configuration has lowlatency enabled"
 msgstr "Проверете дали конфигурацията на ядрото има активирана ниска латентност."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 240
+msgid "Pipewire Jack"
+msgstr "Pipewire Джак"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 241
+msgid "Check if 'pipewire-Jack' is instaled."
+msgstr "Проверете дали 'pipewire-Jack' е инсталиран."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 228
 msgid "System"
@@ -131,9 +221,17 @@ msgstr ""
 "Обикновено е добра практика да имате аудио група и да добавите всички потребители, които трябва да "
 "имат право да извършват аудио задачи, в тази група."
 # 
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 280
-msgid "Disable Wifi"
-msgstr "Деактивирай Wifi"
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 300
+msgid "Memlock and rtprio"
+msgstr "Memlock и rtprio"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 301
+msgid "Set memlock to unlimited and rtprio to 90."
+msgstr "Настройте memlock на неограничен и rtprio на 90."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 307
+msgid "Wifi"
+msgstr "Wifi"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 281
 msgid ""
@@ -144,6 +242,18 @@ msgstr ""
 "NetworkManager продължава да сканира за нови безжични мрежи на заден план и това може да предизвика "
 "xruns. Най-добрият вариант е да не се използва безжична мрежа в среда за аудио в реално време с "
 "ниска латентност."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 314
+msgid "Bluetooth"
+msgstr "Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 315
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth продължава да сканира за нови устройства на заден план и това може да предизвика xruns. "
+"Най-добрата опция е да не се използва Bluetooth в среда с ниска латентност за реално време на аудио."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."

@@ -26,11 +26,93 @@ msgid "An error occurred while updating GRUB."
 msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση του GRUB."
 msgid "Already disabled. No changes made."
 msgstr "Ήδη απενεργοποιημένο. Δεν έγιναν αλλαγές."
+msgid "Limits updated successfully!"
+msgstr "Οι περιορισμοί ενημερώθηκαν με επιτυχία!"
+msgid "An error occurred while updating Limits."
+msgstr "Παρουσιάστηκε σφάλμα κατά την ενημέρωση των Ορίων."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 42
+msgid ""
+"`pw-metadata` command not found.\n"
+"Please install pipewire-utils or a similar package."
+msgstr "Η εντολή `pw-metadata` δεν βρέθηκε. Παρακαλώ εγκαταστήστε το pipewire-utils ή ένα παρόμοιο πακέτο."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 57
+msgid "Audio Interface"
+msgstr "Διεπαφή Ήχου"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 63
+msgid "Reload live settings from PipeWire"
+msgstr "Επαναφόρτωση ζωντανών ρυθμίσεων από το PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 69
+msgid "Sample Rate"
+msgstr "Δείγμα Ρυθμού"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 77
+msgid "Buffer Size (Quantum)"
+msgstr "Μέγεθος Δεδομένων (Κβάντο)"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 88
+msgid "Apply Session"
+msgstr "Εφαρμογή Συνεδρίας"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 89
+msgid "Apply settings for the current session only. Lost on restart."
+msgstr "Εφαρμόστε τις ρυθμίσεις μόνο για την τρέχουσα συνεδρία. Χάνονται κατά την επανεκκίνηση."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 94
+msgid "Make Permanent & Apply"
+msgstr "Κάντε Μόνιμο & Εφαρμόστε"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 95
+msgid "Apply settings now and save them for future sessions."
+msgstr "Εφαρμόστε τις ρυθμίσεις τώρα και αποθηκεύστε τις για μελλοντικές συνεδρίες."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 106
+msgid "Apply changes temporarily or make them permanent for future sessions."
+msgstr "Εφαρμόστε τις αλλαγές προσωρινά ή κάντε τις μόνιμες για μελλοντικές συνεδρίες."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid "Settings are being controlled by an external application. Applying new values will override this."
+msgstr "Οι ρυθμίσεις ελέγχονται από μια εξωτερική εφαρμογή. Η εφαρμογή νέων τιμών θα παρακάμψει αυτό."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 208
+msgid "Settings applied for the current session."
+msgstr "Οι ρυθμίσεις εφαρμόστηκαν για την τρέχουσα συνεδρία."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid "Failed to apply live settings."
+msgstr "Αποτυχία εφαρμογής ζωντανών ρυθμίσεων."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 228
+msgid "Error: Failed to save configuration file."
+msgstr "Σφάλμα: Αποτυχία αποθήκευσης του αρχείου ρύθμισης παραμέτρων."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 235
+msgid "Settings saved and applied permanently."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν και εφαρμόστηκαν μόνιμα."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 238
+msgid "Settings saved, but failed to apply live."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν, αλλά απέτυχαν να εφαρμοστούν ζωντανά."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 244
+msgid "PipeWire settings reloaded."
+msgstr "Οι ρυθμίσεις του PipeWire επαναφορτώθηκαν."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
 msgid "PipeWire ProAudio Config"
 msgstr "Ρυθμίσεις ProAudio PipeWire"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 110
+msgid "System Tweaks"
+msgstr "Ρυθμίσεις Συστήματος"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 113
+msgid "PipeWire Settings"
+msgstr "Ρυθμίσεις PipeWire"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
 msgid "Checks"
@@ -51,6 +133,14 @@ msgstr "Πυρήνας Χαμηλής Καθυστέρησης"
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 221
 msgid "Check if the kernel configuration has lowlatency enabled"
 msgstr "Ελέγξτε αν η ρύθμιση του πυρήνα έχει ενεργοποιημένη τη χαμηλή καθυστέρηση."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 240
+msgid "Pipewire Jack"
+msgstr "Pipewire Jack"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 241
+msgid "Check if 'pipewire-Jack' is instaled."
+msgstr "Ελέγξτε αν είναι εγκατεστημένο το 'pipewire-Jack'."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 228
 msgid "System"
@@ -133,9 +223,17 @@ msgstr ""
 "Είναι γενικά καλή πρακτική να έχετε μια ομάδα ήχου και να προσθέτετε οποιουσδήποτε χρήστες θα "
 "πρέπει να επιτρέπεται να εκτελούν εργασίες ήχου σε αυτήν την ομάδα."
 # 
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 280
-msgid "Disable Wifi"
-msgstr "Απενεργοποίηση Wifi"
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 300
+msgid "Memlock and rtprio"
+msgstr "Memlock και rtprio"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 301
+msgid "Set memlock to unlimited and rtprio to 90."
+msgstr "Ρυθμίστε το memlock σε απεριόριστο και το rtprio σε 90."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 307
+msgid "Wifi"
+msgstr "Wifi"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 281
 msgid ""
@@ -146,6 +244,19 @@ msgstr ""
 "Ο NetworkManager συνεχίζει να σαρώνει για νέα ασύρματα δίκτυα στο παρασκήνιο και αυτό μπορεί να "
 "προκαλέσει xruns. Η καλύτερη επιλογή είναι να μην χρησιμοποιείτε ασύρματο δίκτυο σε περιβάλλον ήχου "
 "χαμηλής καθυστέρησης σε πραγματικό χρόνο."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 314
+msgid "Bluetooth"
+msgstr "Μπλουτούθ"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 315
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Το Bluetooth συνεχίζει να σκανάρει για νέες συσκευές στο παρασκήνιο και αυτό μπορεί να προκαλέσει "
+"xruns. Η καλύτερη επιλογή είναι να μην χρησιμοποιείτε Bluetooth σε περιβάλλον ήχου χαμηλής "
+"καθυστέρησης σε πραγματικό χρόνο."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."

@@ -26,11 +26,93 @@ msgid "An error occurred while updating GRUB."
 msgstr "GRUB-i värskendamisel tekkis viga."
 msgid "Already disabled. No changes made."
 msgstr "Juba keelatud. Muudatusi ei tehtud."
+msgid "Limits updated successfully!"
+msgstr "Piirid on edukalt uuendatud!"
+msgid "An error occurred while updating Limits."
+msgstr "Piiride värskendamisel tekkis viga."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 42
+msgid ""
+"`pw-metadata` command not found.\n"
+"Please install pipewire-utils or a similar package."
+msgstr "`pw-metadata` käsku ei leitud. Palun installige pipewire-utils või sarnane pakett."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 57
+msgid "Audio Interface"
+msgstr "Heliinterface"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 63
+msgid "Reload live settings from PipeWire"
+msgstr "Laadi elavad seaded PipeWire'ist uuesti"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 69
+msgid "Sample Rate"
+msgstr "Proovimise sagedus"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 77
+msgid "Buffer Size (Quantum)"
+msgstr "Puhvri suurus (kvant)"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 88
+msgid "Apply Session"
+msgstr "Rakenda seanss"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 89
+msgid "Apply settings for the current session only. Lost on restart."
+msgstr "Rakenda seade ainult praegusele sessioonile. Kaob taaskäivitamisel."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 94
+msgid "Make Permanent & Apply"
+msgstr "Tehke püsivaks ja rakendage"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 95
+msgid "Apply settings now and save them for future sessions."
+msgstr "Rakenda seaded nüüd ja salvesta need tulevaste seansside jaoks."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 106
+msgid "Apply changes temporarily or make them permanent for future sessions."
+msgstr "Kanna muudatused ajutiselt või tee need püsivaks tulevaste seansside jaoks."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 108
+msgid "Settings are being controlled by an external application. Applying new values will override this."
+msgstr "Seadeid juhib väline rakendus. Uute väärtuste rakendamine ületab selle."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 208
+msgid "Settings applied for the current session."
+msgstr "Seaded rakendatud praegusele seansile."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 210
+msgid "Failed to apply live settings."
+msgstr "Elu seadeid ei õnnestunud rakendada."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 228
+msgid "Error: Failed to save configuration file."
+msgstr "Viga: Konfiguratsioonifaili salvestamine ebaõnnestus."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 235
+msgid "Settings saved and applied permanently."
+msgstr "Seaded salvestatud ja rakendatud püsivalt."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 238
+msgid "Settings saved, but failed to apply live."
+msgstr "Seaded salvestatud, kuid reaalajas rakendamine ebaõnnestus."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/pipewire_settings_page.py, line: 244
+msgid "PipeWire settings reloaded."
+msgstr "PipeWire seaded on laaditud."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 49
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 98
 msgid "PipeWire ProAudio Config"
 msgstr "PipeWire ProAudio konfiguratsioon"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 110
+msgid "System Tweaks"
+msgstr "Süsteemi kohandused"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 113
+msgid "PipeWire Settings"
+msgstr "PipeWire seaded"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 203
 msgid "Checks"
@@ -51,6 +133,14 @@ msgstr "Kernel Madal Latentsus"
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 221
 msgid "Check if the kernel configuration has lowlatency enabled"
 msgstr "Kontrolli, kas kernel'i konfiguratsioonis on madala latentsusega tugi lubatud."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 240
+msgid "Pipewire Jack"
+msgstr "Pipewire Jack"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 241
+msgid "Check if 'pipewire-Jack' is instaled."
+msgstr "Kontrolli, kas 'pipewire-Jack' on installitud."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 228
 msgid "System"
@@ -130,9 +220,17 @@ msgstr ""
 "Üldiselt on hea tava luua heligrupp ja lisada sellesse gruppi kõik kasutajad, kellel peaks olema "
 "lubatud helitöid teha."
 # 
-# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 280
-msgid "Disable Wifi"
-msgstr "Keela Wifi"
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 300
+msgid "Memlock and rtprio"
+msgstr "Memlock ja rtprio"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 301
+msgid "Set memlock to unlimited and rtprio to 90."
+msgstr "Seadke memlock piiramatu ja rtprio 90-le."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 307
+msgid "Wifi"
+msgstr "Wifi"
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 281
 msgid ""
@@ -142,6 +240,18 @@ msgid ""
 msgstr ""
 "NetworkManager skannib pide uusi traadita võrke taustal ja see võib põhjustada xrune. Parim valik "
 "on mitte kasutada traadita võrku madala latentsusega reaalajas helikeskkonnas."
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 314
+msgid "Bluetooth"
+msgstr "Bluetooth"
+# 
+# File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 315
+msgid ""
+"Bluetooth keeps scanning for new devices in the background and this might cause xruns. The best "
+"option is to not use a bluetooth in a low-latency real-time audio environment."
+msgstr ""
+"Bluetooth skannib pide uusi seadmeid taustal ja see võib põhjustada xrune. Parim valik on mitte "
+"kasutada Bluetooth'i madala latentsusega reaalajas helikeskkonnas."
 # 
 # File: pipewire-proaudio-config/usr/share/pipewire-proaudio-config/main.py, line: 289
 msgid "Unavailable: script not found."
